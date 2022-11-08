@@ -1,4 +1,4 @@
-# Alex Jones - Welcome to my Github
+# Hi, I'm Alex - Welcome to my Github
 
 Hi! I'm Alex Jones, and I'm currently studying my 3rd year of MEng Computer Science at the University of Warwick.
 I mainly make back-ends or hobby projects, and so my strongest languages are Python, C and Java. I am strongly interested in low-level programming, graphics and physics simulation programming, and general software development. But pretty much anything in the field of computer science is interesting to me!
