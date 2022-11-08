@@ -11,8 +11,8 @@ I mainly make back-ends or hobby projects, and so my strongest languages are Pyt
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
     <img alt="LaTeX" src="https://img.shields.io/badge/Latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><span> </span>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
-    <br></br>
     <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/><span> </span>
+    <br>
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><span> </span>
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><span> </span>
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><span> </span>
