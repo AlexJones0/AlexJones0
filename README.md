@@ -1,10 +1,8 @@
 # Hi, I'm Alex - Welcome to my Github
 
-Hi! I'm Alex Jones, and I've recently completed my final year of BSc Computer Science at the University of Warwick, receiving *"The Professor Graham Martin Award for the Best Overall Graduating BSc Student in Computer Science for 2023"* with an overall grade of 88.9%.
+Hi! I'm Alex Jones, and I've recently completed my final year of BSc Computer Science at the University of Warwick.
 
 I mainly make back-ends or hobby projects, and so my strongest languages are Python, C and Java. I am mostly interested in low-level programming, compiler design and code transformation, graphics and physics simulation programming, and general software development. But pretty much anything in the field of computer science is interesting to me!
-
-I'm actively seeking out career opportunities - feel free to email me at **jta0@outlook.com**.
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
     <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
